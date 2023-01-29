@@ -1,0 +1,17 @@
+{
+  "name": "testing-live-reloda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.17.5",
+    "prettier": "^2.8.3"
+  }
+}
